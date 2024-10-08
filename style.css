@@ -7,11 +7,14 @@ h1{
     font-weight: 800;
     color: red;
     background-color: beige;
+    display: inline-block;
+    margin-right: 40px;
 }
 p{
     color: aqua;
     background-color: brown;
     font-size: medium;
     font-weight: 600;
-    
+    display: inline-block;
+
 }
